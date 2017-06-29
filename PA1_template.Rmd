@@ -1,7 +1,5 @@
 ---
-title: "Project W2 Reproducible research"
-author: "julianehf"
-date: "29/06/2017"
+title: "Reproducible Research: Peer Assessment 1"
 output: 
   html_document:
     keep_md: true

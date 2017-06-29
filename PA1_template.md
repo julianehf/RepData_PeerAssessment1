@@ -1,6 +1,4 @@
-# Project W2 Reproducible research
-julianehf  
-29/06/2017  
+# Reproducible Research: Peer Assessment 1
 
 
 
